@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @rkk8
 👋 Hi, I'm @rkk8 (Ryan Krieger)
 💼 Data Analyst with expertise in data engineering, advanced SQL, and quantitative analytics. I specialize in building robust, production-ready data pipelines with clean architecture and modular design.
 🔧 Tech Stack:
@@ -16,4 +15,5 @@ Analytics: Data visualization, statistical modeling, ETL pipeline design
 🌱 Interests: Time series analysis, quantitative modeling, data infrastructure, yield optimization, financial analytics, software architecture, AI-assisted development
 💞️ Looking to collaborate on: Projects involving large-scale data pipelines, complex SQL transformations, time series forecasting, or quantitative modeling. Particularly interested in problems requiring both robust data engineering (CTEs, window functions, temporal data) and statistical/ML approaches with clean, maintainable code architecture. Open to exploring AI-enhanced development workflows.
 📫 Reach me: rkkrieger8@gmail.com | LinkedIn
+
 
